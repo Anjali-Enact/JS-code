@@ -11,5 +11,5 @@ for(let i=0;i<arr.length;i++)
     {
         min=arr[i];
     }
-}
+}//anjali
 console.log(min,max);
